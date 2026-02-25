@@ -1,0 +1,859 @@
+Crop,Disease,Pathogen,Symptoms,Recommended_Medicine,Application_Notes,Severity
+Tomato,Early Blight,Alternaria solani,Dark spots on older leaves,Chlorothalonil,Spray every 7-10 days,
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions on leaves,Mancozeb,Apply at first sign,
+Potato,Late Blight,Phytophthora infestans,Brown patches on leaves,Metalaxyl,Use preventive spray,
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Spray during early infection,
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Apply as foliar spray,
+Wheat,Rust,Puccinia spp.,Orange pustules on leaves,Propiconazole,Spray at first appearance,
+Wheat,Powdery Mildew,Blumeria graminis,White powdery growth,Sulfur,Dust or spray application,
+Maize,Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Apply early,
+Maize,Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Repeat after 10 days,
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Spray regularly,
+Cotton,Leaf Curl,Begomovirus,Upward leaf curling,Imidacloprid,Control whiteflies,
+Chili,Anthracnose,Colletotrichum capsici,Sunken dark lesions,Carbendazim,Spray weekly,
+Chili,Leaf Curl,Begomovirus,Curled distorted leaves,Thiamethoxam,Control vectors,
+Banana,Panama Disease,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Soil drenching,
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks on leaves,Mancozeb,Regular spray,
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Spray after rain,
+Grapes,Powdery Mildew,Uncinula necator,White powder on leaves,Wettable Sulfur,Apply at early stage,
+Apple,Scab,Venturia inaequalis,Olive-green spots,Captan,Preventive spray,
+Apple,Fire Blight,Erwinia amylovora,Blackened shoots,Streptomycin,Spray during bloom,
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black spots on fruit,Carbendazim,Spray at flowering,
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Dust application,
+Soybean,Rust,Phakopsora pachyrhizi,Brown pustules,Tebuconazole,Spray early,
+Soybean,Frogeye Leaf Spot,Cercospora sojina,Circular gray spots,Azoxystrobin,Foliar spray,
+Peanut,Leaf Spot,Cercospora arachidicola,Brown leaf spots,Chlorothalonil,Repeat spray,
+Peanut,Rust,Puccinia arachidis,Reddish pustules,Mancozeb,Apply regularly,
+Onion,Purple Blotch,Alternaria porri,Purple lesions,Mancozeb,Spray every 10 days,
+Onion,Downy Mildew,Peronospora destructor,Pale green patches,Metalaxyl,Use preventively,
+Cucumber,Powdery Mildew,Podosphaera xanthii,White powdery spots,Sulfur,Apply weekly,
+Cucumber,Downy Mildew,Pseudoperonospora cubensis,Yellow angular spots,Mancozeb,Spray after dew,
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Apply during high humidity,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Follow recommended dosage,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Use preventive spray,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Repeat every 7-10 days,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Apply during high humidity,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Spray at early stage,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Spray at early stage,Mild
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Spray at early stage,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Repeat every 7-10 days,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Follow recommended dosage,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Use preventive spray,Mild
+Tomato,Early Blight,Alternaria solani,Dark concentric leaf spots,Chlorothalonil,Use preventive spray,Moderate
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Apply during high humidity,Moderate
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Follow recommended dosage,Mild
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Repeat every 7-10 days,Severe
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Repeat every 7-10 days,Moderate
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Follow recommended dosage,Severe
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Spray at early stage,Moderate
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Spray at early stage,Severe
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Use preventive spray,Mild
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Follow recommended dosage,Moderate
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Spray at early stage,Mild
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Use preventive spray,Severe
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Repeat every 7-10 days,Moderate
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Follow recommended dosage,Moderate
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Use preventive spray,Severe
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Follow recommended dosage,Mild
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Spray at early stage,Mild
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Use preventive spray,Moderate
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Apply during high humidity,Moderate
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Repeat every 7-10 days,Mild
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Follow recommended dosage,Severe
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Spray at early stage,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Spray at early stage,Mild
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Repeat every 7-10 days,Moderate
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Repeat every 7-10 days,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Use preventive spray,Mild
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Use preventive spray,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Follow recommended dosage,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Apply during high humidity,Mild
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Use preventive spray,Moderate
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Spray at early stage,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Spray at early stage,Moderate
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular spots,Copper Oxychloride,Follow recommended dosage,Mild
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Use preventive spray,Severe
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Repeat every 7-10 days,Moderate
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Spray at early stage,Mild
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Apply during high humidity,Severe
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Repeat every 7-10 days,Mild
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Use preventive spray,Moderate
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Follow recommended dosage,Moderate
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Use preventive spray,Mild
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Spray at early stage,Severe
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Spray at early stage,Mild
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Spray at early stage,Severe
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Follow recommended dosage,Moderate
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Repeat every 7-10 days,Mild
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Use preventive spray,Mild
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Apply during high humidity,Severe
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Follow recommended dosage,Severe
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Repeat every 7-10 days,Severe
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Apply during high humidity,Moderate
+Potato,Early Blight,Alternaria solani,Target-like spots,Chlorothalonil,Apply during high humidity,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Apply during high humidity,Severe
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Repeat every 7-10 days,Severe
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Follow recommended dosage,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Spray at early stage,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Repeat every 7-10 days,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Apply during high humidity,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Use preventive spray,Severe
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Use preventive spray,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Follow recommended dosage,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Follow recommended dosage,Severe
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Use preventive spray,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black soil patches,Azoxystrobin,Spray at early stage,Mild
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Follow recommended dosage,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Use preventive spray,Moderate
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Use preventive spray,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Spray at early stage,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Repeat every 7-10 days,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Follow recommended dosage,Mild
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Apply during high humidity,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Apply during high humidity,Moderate
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Repeat every 7-10 days,Mild
+Rice,Blast,Magnaporthe oryzae,Diamond lesions,Tricyclazole,Follow recommended dosage,Moderate
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Spray at early stage,Moderate
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Apply during high humidity,Mild
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Use preventive spray,Mild
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Repeat every 7-10 days,Mild
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Apply during high humidity,Severe
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Apply during high humidity,Moderate
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Spray at early stage,Severe
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Repeat every 7-10 days,Severe
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Follow recommended dosage,Mild
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Follow recommended dosage,Moderate
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Spray at early stage,Mild
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Follow recommended dosage,Severe
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Spray at early stage,Mild
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Apply during high humidity,Severe
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Repeat every 7-10 days,Mild
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Follow recommended dosage,Severe
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Apply during high humidity,Mild
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Repeat every 7-10 days,Moderate
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Apply during high humidity,Moderate
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Follow recommended dosage,Moderate
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Spray at early stage,Moderate
+Rice,Sheath Blight,Rhizoctonia solani,Oval lesions on sheath,Validamycin,Spray at early stage,Severe
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Spray at early stage,Mild
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Apply during high humidity,Severe
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Apply during high humidity,Moderate
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Follow recommended dosage,Mild
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Repeat every 7-10 days,Moderate
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Use preventive spray,Moderate
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Follow recommended dosage,Moderate
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Repeat every 7-10 days,Mild
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Apply during high humidity,Mild
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Repeat every 7-10 days,Severe
+Wheat,Rust,Puccinia spp.,Orange pustules,Propiconazole,Use preventive spray,Severe
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Use preventive spray,Mild
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Follow recommended dosage,Mild
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Spray at early stage,Mild
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Apply during high humidity,Moderate
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Repeat every 7-10 days,Mild
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Follow recommended dosage,Moderate
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Use preventive spray,Severe
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Repeat every 7-10 days,Moderate
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Spray at early stage,Moderate
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Repeat every 7-10 days,Severe
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Follow recommended dosage,Mild
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Repeat every 7-10 days,Severe
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Apply during high humidity,Severe
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Use preventive spray,Mild
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Apply during high humidity,Mild
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Use preventive spray,Moderate
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Spray at early stage,Moderate
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Follow recommended dosage,Moderate
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Spray at early stage,Mild
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Use preventive spray,Severe
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Spray at early stage,Severe
+Wheat,Loose Smut,Ustilago tritici,Black powder heads,Carboxin,Apply during high humidity,Moderate
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Repeat every 7-10 days,Moderate
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Follow recommended dosage,Mild
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Repeat every 7-10 days,Mild
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Apply during high humidity,Mild
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Spray at early stage,Severe
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Follow recommended dosage,Severe
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Apply during high humidity,Severe
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Follow recommended dosage,Moderate
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Apply during high humidity,Moderate
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Use preventive spray,Severe
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Use preventive spray,Mild
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Repeat every 7-10 days,Severe
+Maize,Leaf Blight,Exserohilum turcicum,Long gray lesions,Azoxystrobin,Spray at early stage,Moderate
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Repeat every 7-10 days,Severe
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Repeat every 7-10 days,Moderate
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Use preventive spray,Mild
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Use preventive spray,Severe
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Use preventive spray,Moderate
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Follow recommended dosage,Mild
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Apply during high humidity,Severe
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Follow recommended dosage,Moderate
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Spray at early stage,Severe
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Spray at early stage,Mild
+Maize,Rust,Puccinia sorghi,Reddish pustules,Tebuconazole,Repeat every 7-10 days,Mild
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Apply during high humidity,Moderate
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Follow recommended dosage,Moderate
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Apply during high humidity,Severe
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Follow recommended dosage,Mild
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Repeat every 7-10 days,Mild
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Use preventive spray,Moderate
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Repeat every 7-10 days,Severe
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Repeat every 7-10 days,Moderate
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Use preventive spray,Mild
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Apply during high humidity,Mild
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Spray at early stage,Mild
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Follow recommended dosage,Severe
+Maize,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Use preventive spray,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Use preventive spray,Moderate
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Apply during high humidity,Moderate
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Use preventive spray,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Follow recommended dosage,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Repeat every 7-10 days,Moderate
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Apply during high humidity,Mild
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Spray at early stage,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Repeat every 7-10 days,Mild
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Apply during high humidity,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Spray at early stage,Mild
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular spots,Copper Oxychloride,Follow recommended dosage,Mild
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Apply during high humidity,Severe
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Repeat every 7-10 days,Severe
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Spray at early stage,Moderate
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Follow recommended dosage,Severe
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Repeat every 7-10 days,Moderate
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Spray at early stage,Mild
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Use preventive spray,Moderate
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Follow recommended dosage,Moderate
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Repeat every 7-10 days,Mild
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Spray at early stage,Severe
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Apply during high humidity,Moderate
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Use preventive spray,Mild
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Apply during high humidity,Mild
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Use preventive spray,Severe
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Apply during high humidity,Mild
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Spray at early stage,Moderate
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Follow recommended dosage,Moderate
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Repeat every 7-10 days,Mild
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Follow recommended dosage,Severe
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Follow recommended dosage,Mild
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Apply during high humidity,Severe
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Use preventive spray,Moderate
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Use preventive spray,Mild
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Repeat every 7-10 days,Severe
+Cotton,Root Rot,Rhizoctonia solani,Wilting plants,Carbendazim,Spray at early stage,Severe
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Use preventive spray,Severe
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Spray at early stage,Moderate
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Repeat every 7-10 days,Moderate
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Apply during high humidity,Mild
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Spray at early stage,Mild
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Repeat every 7-10 days,Severe
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Use preventive spray,Mild
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Follow recommended dosage,Mild
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Repeat every 7-10 days,Mild
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Follow recommended dosage,Severe
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Spray at early stage,Severe
+Mango,Anthracnose,Colletotrichum gloeosporioides,Black fruit spots,Carbendazim,Use preventive spray,Moderate
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Apply during high humidity,Mild
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Spray at early stage,Mild
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Use preventive spray,Severe
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Spray at early stage,Severe
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Spray at early stage,Moderate
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Repeat every 7-10 days,Moderate
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Apply during high humidity,Moderate
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Follow recommended dosage,Mild
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Apply during high humidity,Severe
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Repeat every 7-10 days,Mild
+Mango,Powdery Mildew,Oidium mangiferae,White powder on panicles,Sulfur,Use preventive spray,Mild
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Repeat every 7-10 days,Mild
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Use preventive spray,Moderate
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Repeat every 7-10 days,Moderate
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Follow recommended dosage,Mild
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Apply during high humidity,Severe
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Apply during high humidity,Mild
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Apply during high humidity,Moderate
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Repeat every 7-10 days,Severe
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Use preventive spray,Mild
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Use preventive spray,Severe
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Spray at early stage,Mild
+Mango,Dieback,Lasiodiplodia theobromae,Drying branches,Copper Oxychloride,Spray at early stage,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Follow recommended dosage,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Follow recommended dosage,Mild
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Apply during high humidity,Mild
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Spray at early stage,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Repeat every 7-10 days,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Repeat every 7-10 days,Mild
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Spray at early stage,Severe
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Apply during high humidity,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Use preventive spray,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Use preventive spray,Severe
+Banana,Panama Disease,Fusarium oxysporum,Yellow wilting,Carbendazim,Use preventive spray,Mild
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Repeat every 7-10 days,Mild
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Spray at early stage,Moderate
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Follow recommended dosage,Mild
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Follow recommended dosage,Moderate
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Use preventive spray,Severe
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Apply during high humidity,Severe
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Use preventive spray,Moderate
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Repeat every 7-10 days,Severe
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Use preventive spray,Mild
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Apply during high humidity,Moderate
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Apply during high humidity,Moderate
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Follow recommended dosage,Mild
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Repeat every 7-10 days,Mild
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Spray at early stage,Severe
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Use preventive spray,Moderate
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Apply during high humidity,Severe
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Repeat every 7-10 days,Severe
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Repeat every 7-10 days,Moderate
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Follow recommended dosage,Moderate
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Apply during high humidity,Mild
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Use preventive spray,Severe
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Repeat every 7-10 days,Mild
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Spray at early stage,Severe
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Follow recommended dosage,Mild
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Repeat every 7-10 days,Moderate
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Apply during high humidity,Severe
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Spray at early stage,Mild
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Use preventive spray,Moderate
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Follow recommended dosage,Severe
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Spray at early stage,Moderate
+Grapes,Downy Mildew,Plasmopara viticola,Yellow oily spots,Metalaxyl + Mancozeb,Repeat every 7-10 days,Severe
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Repeat every 7-10 days,Mild
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Apply during high humidity,Mild
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Repeat every 7-10 days,Moderate
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Spray at early stage,Moderate
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Follow recommended dosage,Moderate
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Repeat every 7-10 days,Severe
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Spray at early stage,Mild
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Apply during high humidity,Moderate
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Use preventive spray,Severe
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Apply during high humidity,Severe
+Grapes,Powdery Mildew,Uncinula necator,White powder,Wettable Sulfur,Follow recommended dosage,Mild
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Apply during high humidity,Mild
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Repeat every 7-10 days,Severe
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Use preventive spray,Moderate
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Apply during high humidity,Severe
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Follow recommended dosage,Severe
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Apply during high humidity,Moderate
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Follow recommended dosage,Moderate
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Follow recommended dosage,Mild
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Spray at early stage,Severe
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Repeat every 7-10 days,Mild
+Grapes,Anthracnose,Elsinoe ampelina,Dark sunken spots,Carbendazim,Use preventive spray,Mild
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Spray at early stage,Mild
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Apply during high humidity,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Apply after first symptoms,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Use preventive spray,Mild
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Apply during high humidity,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Spray at early stage,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Apply after first symptoms,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Apply during high humidity,Mild
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Repeat every 7-10 days,Mild
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Apply after first symptoms,Mild
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Follow recommended dosage,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Repeat every 7-10 days,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Spray at early stage,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Use preventive spray,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Repeat every 7-10 days,Severe
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Follow recommended dosage,Mild
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Use preventive spray,Moderate
+Tomato,Early Blight,Alternaria solani,Dark concentric spots on leaves,Chlorothalonil,Follow recommended dosage,Severe
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Use preventive spray,Moderate
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Apply during high humidity,Mild
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Apply during high humidity,Severe
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Apply after first symptoms,Moderate
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Apply after first symptoms,Mild
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Repeat every 7-10 days,Mild
+Tomato,Late Blight,Phytophthora infestans,Water-soaked lesions,Mancozeb,Apply after first symptoms,Severe
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Apply during high humidity,Severe
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Repeat every 7-10 days,Severe
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Spray at early stage,Moderate
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Apply during high humidity,Mild
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Apply after first symptoms,Mild
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Apply after first symptoms,Severe
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Use preventive spray,Mild
+Tomato,Leaf Curl,Begomovirus,Upward curling leaves,Imidacloprid,Apply after first symptoms,Moderate
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Apply during high humidity,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Spray at early stage,Mild
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Follow recommended dosage,Mild
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Use preventive spray,Mild
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Apply during high humidity,Moderate
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Repeat every 7-10 days,Mild
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Apply after first symptoms,Mild
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Repeat every 7-10 days,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Apply after first symptoms,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Follow recommended dosage,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Use preventive spray,Moderate
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Spray at early stage,Moderate
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Use preventive spray,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Apply during high humidity,Mild
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Spray at early stage,Severe
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Repeat every 7-10 days,Moderate
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Follow recommended dosage,Moderate
+Tomato,Septoria Leaf Spot,Septoria lycopersici,Small circular leaf spots,Copper Oxychloride,Apply after first symptoms,Moderate
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Spray at early stage,Moderate
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Apply after first symptoms,Severe
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Spray at early stage,Mild
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Repeat every 7-10 days,Moderate
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Repeat every 7-10 days,Severe
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Apply during high humidity,Mild
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Apply during high humidity,Severe
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Spray at early stage,Severe
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Use preventive spray,Moderate
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Repeat every 7-10 days,Mild
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Use preventive spray,Mild
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Apply after first symptoms,Mild
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Follow recommended dosage,Severe
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Use preventive spray,Severe
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Apply after first symptoms,Moderate
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Follow recommended dosage,Moderate
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Apply during high humidity,Moderate
+Tomato,Bacterial Spot,Xanthomonas spp.,Small dark leaf spots,Streptomycin,Follow recommended dosage,Mild
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Apply after first symptoms,Mild
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Apply after first symptoms,Moderate
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Repeat every 7-10 days,Moderate
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Spray at early stage,Mild
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Repeat every 7-10 days,Severe
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Use preventive spray,Mild
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Follow recommended dosage,Mild
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Follow recommended dosage,Moderate
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Repeat every 7-10 days,Mild
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Use preventive spray,Severe
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Apply after first symptoms,Severe
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Use preventive spray,Moderate
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Apply during high humidity,Severe
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Follow recommended dosage,Severe
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Apply during high humidity,Mild
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Spray at early stage,Moderate
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Apply during high humidity,Moderate
+Tomato,Fusarium Wilt,Fusarium oxysporum,Yellowing and wilting,Carbendazim,Spray at early stage,Severe
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Apply after first symptoms,Mild
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Apply after first symptoms,Severe
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Apply during high humidity,Moderate
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Follow recommended dosage,Mild
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Follow recommended dosage,Severe
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Repeat every 7-10 days,Severe
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Apply after first symptoms,Moderate
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Spray at early stage,Moderate
+Potato,Late Blight,Phytophthora infestans,Brown leaf patches,Metalaxyl,Apply during high humidity,Mild
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Repeat every 7-10 days,Mild
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Follow recommended dosage,Mild
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Use preventive spray,Severe
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Spray at early stage,Mild
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Apply after first symptoms,Mild
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Apply during high humidity,Severe
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Spray at early stage,Severe
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Spray at early stage,Moderate
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Apply after first symptoms,Severe
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Repeat every 7-10 days,Moderate
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Use preventive spray,Mild
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Apply during high humidity,Moderate
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Apply after first symptoms,Moderate
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Repeat every 7-10 days,Severe
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Use preventive spray,Moderate
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Follow recommended dosage,Severe
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Apply during high humidity,Mild
+Potato,Early Blight,Alternaria solani,Target-like leaf spots,Chlorothalonil,Follow recommended dosage,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Use preventive spray,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Spray at early stage,Severe
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Use preventive spray,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Apply after first symptoms,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Apply during high humidity,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Repeat every 7-10 days,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Repeat every 7-10 days,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Spray at early stage,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Apply after first symptoms,Severe
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Follow recommended dosage,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Apply after first symptoms,Moderate
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Repeat every 7-10 days,Severe
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Use preventive spray,Severe
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Follow recommended dosage,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Apply during high humidity,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Spray at early stage,Mild
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Follow recommended dosage,Severe
+Potato,Black Scurf,Rhizoctonia solani,Black patches on tubers,Azoxystrobin,Apply during high humidity,Severe
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Spray at early stage,Severe
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Follow recommended dosage,Moderate
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Apply after first symptoms,Severe
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Apply during high humidity,Mild
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Repeat every 7-10 days,Severe
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Follow recommended dosage,Mild
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Follow recommended dosage,Severe
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Apply after first symptoms,Moderate
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Use preventive spray,Moderate
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Spray at early stage,Moderate
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Repeat every 7-10 days,Moderate
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Spray at early stage,Mild
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Repeat every 7-10 days,Mild
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Use preventive spray,Mild
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Apply during high humidity,Moderate
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Apply after first symptoms,Mild
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Use preventive spray,Severe
+Potato,Common Scab,Streptomyces scabies,Rough corky lesions,Mancozeb,Apply during high humidity,Severe
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Use preventive spray,Severe
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Spray at early stage,Severe
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Follow recommended dosage,Moderate
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Repeat every 7-10 days,Mild
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Follow recommended dosage,Severe
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Repeat every 7-10 days,Severe
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Apply after first symptoms,Mild
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Apply during high humidity,Moderate
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Apply after first symptoms,Severe
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Spray at early stage,Moderate
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Use preventive spray,Moderate
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Apply after first symptoms,Moderate
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Apply during high humidity,Severe
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Spray at early stage,Mild
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Repeat every 7-10 days,Moderate
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Apply during high humidity,Mild
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Use preventive spray,Mild
+Potato,Fusarium Dry Rot,Fusarium spp.,Dry rot in tubers,Carbendazim,Follow recommended dosage,Mild
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Apply during high humidity,Severe
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Repeat every 7-10 days,Mild
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Apply during high humidity,Mild
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Follow recommended dosage,Mild
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Use preventive spray,Moderate
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Follow recommended dosage,Moderate
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Use preventive spray,Mild
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Apply after first symptoms,Severe
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Apply during high humidity,Moderate
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Follow recommended dosage,Severe
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Repeat every 7-10 days,Moderate
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Spray at early stage,Moderate
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Apply after first symptoms,Mild
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Spray at early stage,Severe
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Spray at early stage,Mild
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Apply after first symptoms,Moderate
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Use preventive spray,Severe
+Corn,Northern Leaf Blight,Exserohilum turcicum,Long gray-green lesions,Azoxystrobin,Repeat every 7-10 days,Severe
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Apply after first symptoms,Moderate
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Follow recommended dosage,Mild
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Follow recommended dosage,Severe
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Follow recommended dosage,Moderate
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Repeat every 7-10 days,Mild
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Spray at early stage,Moderate
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Use preventive spray,Mild
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Apply after first symptoms,Severe
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Use preventive spray,Severe
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Use preventive spray,Moderate
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Repeat every 7-10 days,Severe
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Apply during high humidity,Mild
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Apply during high humidity,Severe
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Apply during high humidity,Moderate
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Spray at early stage,Mild
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Repeat every 7-10 days,Moderate
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Apply after first symptoms,Mild
+Corn,Common Rust,Puccinia sorghi,Reddish-brown pustules,Tebuconazole,Spray at early stage,Severe
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Apply during high humidity,Mild
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Spray at early stage,Mild
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Apply during high humidity,Moderate
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Repeat every 7-10 days,Mild
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Follow recommended dosage,Moderate
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Follow recommended dosage,Mild
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Repeat every 7-10 days,Moderate
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Repeat every 7-10 days,Severe
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Apply after first symptoms,Severe
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Spray at early stage,Severe
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Apply during high humidity,Severe
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Use preventive spray,Moderate
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Spray at early stage,Moderate
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Use preventive spray,Severe
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Use preventive spray,Mild
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Apply after first symptoms,Moderate
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Apply after first symptoms,Mild
+Corn,Southern Rust,Puccinia polysora,Orange pustules,Propiconazole,Follow recommended dosage,Severe
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Repeat every 7-10 days,Moderate
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Apply during high humidity,Severe
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Follow recommended dosage,Moderate
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Follow recommended dosage,Mild
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Apply after first symptoms,Mild
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Follow recommended dosage,Severe
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Repeat every 7-10 days,Mild
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Apply during high humidity,Moderate
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Spray at early stage,Severe
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Apply after first symptoms,Moderate
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Spray at early stage,Moderate
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Apply during high humidity,Mild
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Use preventive spray,Severe
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Use preventive spray,Moderate
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Repeat every 7-10 days,Severe
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Spray at early stage,Mild
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Use preventive spray,Mild
+Corn,Downy Mildew,Peronosclerospora spp.,Chlorotic streaks,Metalaxyl,Apply after first symptoms,Severe
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Apply during high humidity,Moderate
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Spray at early stage,Mild
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Use preventive spray,Moderate
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Follow recommended dosage,Mild
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Spray at early stage,Moderate
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Repeat every 7-10 days,Moderate
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Apply after first symptoms,Mild
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Follow recommended dosage,Moderate
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Apply during high humidity,Mild
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Apply after first symptoms,Moderate
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Spray at early stage,Severe
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Apply during high humidity,Severe
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Use preventive spray,Mild
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Apply after first symptoms,Severe
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Repeat every 7-10 days,Mild
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Repeat every 7-10 days,Severe
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Follow recommended dosage,Severe
+Corn,Gray Leaf Spot,Cercospora zeae-maydis,Rectangular gray lesions,Mancozeb,Use preventive spray,Severe
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Spray at early stage,Mild
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Use preventive spray,Severe
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Apply during high humidity,Severe
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Apply during high humidity,Mild
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Spray at early stage,Severe
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Repeat every 7-10 days,Moderate
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Repeat every 7-10 days,Mild
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Spray at early stage,Moderate
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Apply after first symptoms,Mild
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Follow recommended dosage,Mild
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Repeat every 7-10 days,Severe
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Use preventive spray,Mild
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Follow recommended dosage,Moderate
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Apply after first symptoms,Severe
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Apply after first symptoms,Moderate
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Use preventive spray,Moderate
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Follow recommended dosage,Severe
+Sugarcane,Red Rot,Colletotrichum falcatum,Red internal stalk rot,Carbendazim,Apply during high humidity,Moderate
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Apply during high humidity,Mild
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Use preventive spray,Mild
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Use preventive spray,Moderate
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Spray at early stage,Severe
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Repeat every 7-10 days,Moderate
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Follow recommended dosage,Severe
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Follow recommended dosage,Mild
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Spray at early stage,Moderate
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Use preventive spray,Severe
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Apply after first symptoms,Moderate
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Apply during high humidity,Moderate
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Apply during high humidity,Severe
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Repeat every 7-10 days,Severe
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Follow recommended dosage,Moderate
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Apply after first symptoms,Severe
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Apply after first symptoms,Mild
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Repeat every 7-10 days,Mild
+Sugarcane,Smut,Sporisorium scitamineum,Black whip-like growth,Triadimefon,Spray at early stage,Mild
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Apply after first symptoms,Mild
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Use preventive spray,Moderate
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Apply during high humidity,Severe
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Follow recommended dosage,Severe
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Use preventive spray,Severe
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Spray at early stage,Moderate
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Spray at early stage,Severe
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Repeat every 7-10 days,Severe
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Repeat every 7-10 days,Moderate
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Follow recommended dosage,Mild
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Apply after first symptoms,Severe
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Repeat every 7-10 days,Mild
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Apply during high humidity,Moderate
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Apply during high humidity,Mild
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Use preventive spray,Mild
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Follow recommended dosage,Moderate
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Apply after first symptoms,Moderate
+Sugarcane,Wilt,Fusarium sacchari,Yellowing and drying,Copper Oxychloride,Spray at early stage,Mild
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Apply during high humidity,Moderate
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Use preventive spray,Moderate
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Apply during high humidity,Severe
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Spray at early stage,Severe
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Follow recommended dosage,Moderate
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Use preventive spray,Severe
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Use preventive spray,Mild
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Repeat every 7-10 days,Moderate
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Spray at early stage,Mild
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Apply after first symptoms,Mild
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Apply after first symptoms,Severe
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Follow recommended dosage,Mild
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Apply after first symptoms,Moderate
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Apply during high humidity,Mild
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Spray at early stage,Moderate
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Repeat every 7-10 days,Mild
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Follow recommended dosage,Severe
+Sugarcane,Leaf Scald,Xanthomonas albilineans,White streaks on leaves,Streptomycin,Repeat every 7-10 days,Severe
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Spray at early stage,Mild
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Use preventive spray,Severe
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Apply during high humidity,Mild
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Apply after first symptoms,Severe
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Apply during high humidity,Severe
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Follow recommended dosage,Moderate
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Repeat every 7-10 days,Moderate
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Use preventive spray,Moderate
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Apply during high humidity,Moderate
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Apply after first symptoms,Moderate
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Follow recommended dosage,Severe
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Use preventive spray,Mild
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Spray at early stage,Moderate
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Spray at early stage,Severe
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Repeat every 7-10 days,Mild
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Follow recommended dosage,Mild
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Apply after first symptoms,Mild
+Sugarcane,Grassy Shoot,Phytoplasma,Bushy grassy growth,Imidacloprid,Repeat every 7-10 days,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Use preventive spray,Mild
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Use preventive spray,Moderate
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Repeat every 7-10 days,Moderate
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Spray at early stage,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Spray at early stage,Mild
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Repeat every 7-10 days,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Apply during high humidity,Moderate
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Follow recommended dosage,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Repeat every 7-10 days,Mild
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Apply during high humidity,Mild
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Follow recommended dosage,Mild
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Use preventive spray,Severe
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Spray at early stage,Moderate
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Follow recommended dosage,Moderate
+Rice,Blast,Magnaporthe oryzae,Diamond-shaped lesions,Tricyclazole,Apply during high humidity,Severe
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Apply during high humidity,Moderate
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Spray at early stage,Mild
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Repeat every 7-10 days,Mild
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Follow recommended dosage,Moderate
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Spray at early stage,Moderate
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Spray at early stage,Severe
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Follow recommended dosage,Mild
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Repeat every 7-10 days,Severe
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Apply during high humidity,Mild
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Repeat every 7-10 days,Moderate
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Follow recommended dosage,Severe
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Use preventive spray,Mild
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Use preventive spray,Moderate
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Use preventive spray,Severe
+Rice,Sheath Blight,Rhizoctonia solani,Oval sheath lesions,Validamycin,Apply during high humidity,Severe
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Use preventive spray,Moderate
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Repeat every 7-10 days,Moderate
+Rice,Brown Spot,Bipolaris oryzae,Brown circular spots,Carbendazim,Use preventive spray,Severe
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Repeat every 7-10 days,Mild
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Use preventive spray,Severe
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Apply during high humidity,Severe
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Follow recommended dosage,Moderate
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Use preventive spray,Moderate
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Follow recommended dosage,Severe
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Spray at early stage,Mild
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Repeat every 7-10 days,Severe
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Apply during high humidity,Mild
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Follow recommended dosage,Mild
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Use preventive spray,Mild
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Apply during high humidity,Moderate
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Spray at early stage,Moderate
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Repeat every 7-10 days,Moderate
+Wheat,Stripe Rust,Puccinia striiformis,Yellow stripes on leaves,Propiconazole,Spray at early stage,Severe
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Repeat every 7-10 days,Severe
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Apply during high humidity,Mild
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Follow recommended dosage,Severe
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Repeat every 7-10 days,Mild
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Use preventive spray,Severe
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Spray at early stage,Mild
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Apply during high humidity,Moderate
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Follow recommended dosage,Moderate
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Follow recommended dosage,Mild
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Apply during high humidity,Severe
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Spray at early stage,Moderate
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Repeat every 7-10 days,Moderate
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Use preventive spray,Moderate
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Use preventive spray,Mild
+Wheat,Leaf Rust,Puccinia triticina,Orange pustules,Tebuconazole,Spray at early stage,Severe
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Follow recommended dosage,Severe
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Apply during high humidity,Severe
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Spray at early stage,Severe
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Apply during high humidity,Mild
+Wheat,Powdery Mildew,Blumeria graminis,White powder growth,Sulfur,Use preventive spray,Moderate
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Follow recommended dosage,Moderate
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Repeat every 7-10 days,Mild
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Use preventive spray,Moderate
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Repeat every 7-10 days,Moderate
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Follow recommended dosage,Severe
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Use preventive spray,Severe
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Follow recommended dosage,Mild
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Apply during high humidity,Moderate
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Repeat every 7-10 days,Severe
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Apply during high humidity,Severe
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Spray at early stage,Moderate
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Spray at early stage,Mild
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Use preventive spray,Mild
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Spray at early stage,Severe
+Cotton,Boll Rot,Fusarium spp.,Rotting bolls,Carbendazim,Apply during high humidity,Mild
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Follow recommended dosage,Mild
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Repeat every 7-10 days,Mild
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Spray at early stage,Moderate
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Follow recommended dosage,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Spray at early stage,Mild
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Follow recommended dosage,Moderate
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Use preventive spray,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Repeat every 7-10 days,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Apply during high humidity,Mild
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Use preventive spray,Mild
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Apply during high humidity,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Use preventive spray,Moderate
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Spray at early stage,Severe
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Repeat every 7-10 days,Moderate
+Cotton,Bacterial Blight,Xanthomonas campestris,Angular leaf spots,Copper Oxychloride,Apply during high humidity,Moderate
+Cotton,Leaf Curl,Begomovirus,Leaf curling,Imidacloprid,Follow recommended dosage,Mild
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Follow recommended dosage,Mild
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Spray at early stage,Moderate
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Follow recommended dosage,Moderate
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Spray at early stage,Mild
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Apply during high humidity,Severe
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Repeat every 7-10 days,Mild
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Use preventive spray,Severe
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Repeat every 7-10 days,Severe
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Spray at early stage,Severe
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Apply during high humidity,Moderate
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Apply during high humidity,Mild
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Follow recommended dosage,Severe
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Repeat every 7-10 days,Moderate
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Use preventive spray,Moderate
+Chili,Anthracnose,Colletotrichum capsici,Sunken fruit lesions,Carbendazim,Use preventive spray,Mild
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Spray at early stage,Severe
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Follow recommended dosage,Moderate
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Use preventive spray,Moderate
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Repeat every 7-10 days,Severe
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Use preventive spray,Mild
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Spray at early stage,Mild
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Follow recommended dosage,Severe
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Spray at early stage,Moderate
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Use preventive spray,Severe
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Apply during high humidity,Moderate
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Repeat every 7-10 days,Moderate
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Apply during high humidity,Severe
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Repeat every 7-10 days,Mild
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Follow recommended dosage,Mild
+Chili,Powdery Mildew,Leveillula taurica,White leaf powder,Sulfur,Apply during high humidity,Mild
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Follow recommended dosage,Severe
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Spray at early stage,Mild
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Spray at early stage,Severe
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Spray at early stage,Moderate
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Apply during high humidity,Moderate
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Follow recommended dosage,Moderate
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Apply during high humidity,Severe
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Use preventive spray,Severe
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Apply during high humidity,Mild
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Repeat every 7-10 days,Moderate
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Repeat every 7-10 days,Mild
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Use preventive spray,Moderate
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Use preventive spray,Mild
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Follow recommended dosage,Mild
+Chili,Leaf Curl,Begomovirus,Distorted leaves,Thiamethoxam,Repeat every 7-10 days,Severe
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Apply during high humidity,Mild
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Spray at early stage,Severe
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Follow recommended dosage,Severe
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Repeat every 7-10 days,Moderate
+Banana,Sigatoka,Mycosphaerella musicola,Yellow streaks,Mancozeb,Spray at early stage,Mild
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Follow recommended dosage,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Follow recommended dosage,Severe
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Follow recommended dosage,Mild
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Repeat every 7-10 days,Mild
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Apply during high humidity,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Spray at early stage,Mild
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Spray at early stage,Severe
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Apply during high humidity,Mild
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Use preventive spray,Mild
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Repeat every 7-10 days,Severe
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Use preventive spray,Severe
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Repeat every 7-10 days,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Spray at early stage,Moderate
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Apply during high humidity,Severe
+Banana,Panama Disease,Fusarium oxysporum,Wilting and yellowing,Carbendazim,Use preventive spray,Moderate
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Spray at early stage,Mild
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Spray at early stage,Moderate
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Use preventive spray,Severe
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Use preventive spray,Mild
+Banana,Bunchy Top,Banana bunchy top virus,Bunched leaves,Imidacloprid,Follow recommended dosage,Severe
