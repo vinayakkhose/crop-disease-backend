@@ -21,7 +21,7 @@ async def connect_db():
     """Connect to MongoDB Atlas on startup."""
     global db, client
     if not MONGODB_URL:
-        print("❌ MONGODB_URL is not set. Set it in backend/.env to your MongoDB Atlas connection string.")
+        print("[ERROR] MONGODB_URL is not set. Set it in backend/.env to your MongoDB Atlas connection string.")
         return
     try:
         client = AsyncIOMotorClient(
@@ -31,7 +31,7 @@ async def connect_db():
         )
         db = client[DATABASE_NAME]
         await client.admin.command("ping")
-        print("✅ Connected to MongoDB Atlas, DB:", DATABASE_NAME)
+        print("[SUCCESS] Connected to MongoDB Atlas, DB:", DATABASE_NAME)
 
         # Create indexes for fast analytics + history queries
         try:
@@ -41,13 +41,13 @@ async def connect_db():
             await db.predictions.create_index(
                 [("user_id", 1), ("prediction.disease_name", 1)], background=True
             )
-            print("✅ MongoDB indexes ensured")
+            print("[SUCCESS] MongoDB indexes ensured")
         except Exception as idx_err:
-            print(f"⚠️  Index creation warning (non-fatal): {idx_err}")
+            print(f"[WARNING] Index creation warning (non-fatal): {idx_err}")
     except Exception as e:
         db = None
         client = None
-        print(f"❌ MongoDB Atlas connection error: {e}")
+        print(f"[ERROR] MongoDB Atlas connection error: {e}")
 
 
 async def close_db():
@@ -55,7 +55,7 @@ async def close_db():
     global client
     if client:
         client.close()
-        print("✅ MongoDB connection closed")
+        print("[SUCCESS] MongoDB connection closed")
 
 
 def get_db():
