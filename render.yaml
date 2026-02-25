@@ -3,7 +3,7 @@ services:
     name: crop-disease-backend
     env: python
     plan: starter          # Free tier won't fit TensorFlow (needs ~1GB RAM)
-    buildCommand: pip install -r requirements.txt
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: MONGODB_URL
