@@ -6,8 +6,13 @@ import sys
 from pathlib import Path
 sys.path.append(str(Path(__file__).parent.parent.parent.parent))
 
-from src.inference.advanced_predictor import AdvancedAIPredictor, ImageQualityDetector
-from src.model_training.advanced_models import DiseaseRiskPredictor
+try:
+    from src.inference.advanced_predictor import AdvancedAIPredictor, ImageQualityDetector
+    from src.model_training.advanced_models import DiseaseRiskPredictor
+except ModuleNotFoundError:
+    AdvancedAIPredictor = None
+    ImageQualityDetector = None
+    DiseaseRiskPredictor = None
 import os
 import cv2
 import numpy as np
@@ -28,12 +33,15 @@ class AdvancedPredictionService:
         }
         
         self.predictor = None
-        self.quality_detector = ImageQualityDetector()
-        self.risk_predictor = DiseaseRiskPredictor(use_lstm=True)
+        self.quality_detector = ImageQualityDetector() if ImageQualityDetector else None
+        self.risk_predictor = DiseaseRiskPredictor(use_lstm=True) if DiseaseRiskPredictor else None
         
         try:
             # Try to load advanced predictor (may fail if models don't exist)
-            self.predictor = AdvancedAIPredictor(model_paths)
+            if AdvancedAIPredictor is not None:
+                self.predictor = AdvancedAIPredictor(model_paths)
+            else:
+                print("AdvancedAIPredictor module not found.")
         except Exception as e:
             print(f"Advanced models not available: {e}")
             print("Using basic prediction only")
@@ -71,11 +79,17 @@ class AdvancedPredictionService:
         if img is None:
             return {'error': 'Could not read image'}
         
+        if self.quality_detector is None:
+            return {'error': 'Quality detector not available (running in lightweight backend-only mode)'}
+            
         img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
         return self.quality_detector.detect_quality(img_rgb)
     
     def predict_disease_risk(self, weather_data: Dict, soil_data: Dict) -> Dict:
         """Predict disease risk from weather and soil data"""
+        if self.risk_predictor is None:
+            return {'error': 'Risk predictor not available (running in lightweight backend-only mode)'}
+            
         try:
             return self.risk_predictor.predict_risk(weather_data, soil_data)
         except Exception as e:

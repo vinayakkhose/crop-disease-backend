@@ -8,6 +8,9 @@ from pathlib import Path
 # Add parent directory to path to import from src
 sys.path.append(str(Path(__file__).parent.parent.parent.parent))
 
-from src.inference.predict import AdvancedPredictor
+try:
+    from src.inference.predict import AdvancedPredictor
+except ModuleNotFoundError:
+    AdvancedPredictor = None
 
 __all__ = ['AdvancedPredictor']

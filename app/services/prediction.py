@@ -12,7 +12,10 @@ import os
 
 # Add project root to import path so we can use src.inference.predict
 sys.path.append(str(Path(__file__).parent.parent.parent.parent))
-from src.inference.predict import AdvancedPredictor
+try:
+    from src.inference.predict import AdvancedPredictor
+except ModuleNotFoundError:
+    AdvancedPredictor = None
 
 from app.services.disease_medicine_lookup import get_disease_medicine_lookup
 from app.services.fertilizer_recommender import fertilizer_recommender
@@ -40,6 +43,8 @@ class PredictionService:
         self.initialization_error: Optional[str] = None
 
         try:
+            if AdvancedPredictor is None:
+                raise FileNotFoundError("Inference module not found (Backend running in lightweight mode).")
             self.predictor = AdvancedPredictor(model_path, class_mapping_path)
         except FileNotFoundError as e:
             # Model or mapping file is missing – keep backend running and provide clear error later
