@@ -12,6 +12,21 @@ from pymongo import DESCENDING
 
 router = APIRouter()
 
+@router.get("/available-crops")
+async def get_available_crops(
+    current_user: dict = Depends(get_current_user)
+):
+    """Get list of unique crops the user has predicted"""
+    db = get_db()
+    
+    pipeline = [
+        {"$match": {"user_id": current_user["id"], "crop_type": {"$exists": True, "$ne": None, "$ne": ""}}},
+        {"$group": {"_id": "$crop_type"}},
+        {"$sort": {"_id": 1}}
+    ]
+    
+    results = await db.predictions.aggregate(pipeline).to_list(length=100)
+    return [item["_id"] for item in results if item["_id"]]
 @router.get("/disease-frequency")
 async def get_disease_frequency(
     crop_type: Optional[str] = None,
