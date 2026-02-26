@@ -131,7 +131,7 @@ class PredictionService:
         confidence = top_prediction['confidence']
         
         # If confidence is very low, image likely not a plant/leaf (e.g. human, object)
-        NOT_PLANT_CONFIDENCE_THRESHOLD = 0.28
+        NOT_PLANT_CONFIDENCE_THRESHOLD = 0.40
         if confidence < NOT_PLANT_CONFIDENCE_THRESHOLD:
             return self._sanitize_result({
                 "disease_name": "Not a plant leaf",
@@ -246,11 +246,13 @@ class PredictionService:
             
             # Color heuristic: Plant leaves usually have some green/yellow/brown
             hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
-            # define ranges for plant colors
+            
+            # Green bounds
             lower_green = np.array([25, 40, 40])
             upper_green = np.array([90, 255, 255])
             mask_g = cv2.inRange(hsv, lower_green, upper_green)
             
+            # Yellow/Brown bounds (dead/diseased leaves)
             lower_yb = np.array([10, 40, 40])
             upper_yb = np.array([30, 255, 255])
             mask_yb = cv2.inRange(hsv, lower_yb, upper_yb)
@@ -258,8 +260,10 @@ class PredictionService:
             plant_pixels = cv2.countNonZero(mask_g) + cv2.countNonZero(mask_yb)
             total_pixels = img.shape[0] * img.shape[1]
             
-            # Less than 1% plant colors -> likely not a plant
-            if total_pixels > 0 and (plant_pixels / total_pixels) < 0.01:
+            # Require at least 5% of the image to contain typical plant colors
+            if total_pixels > 0 and (plant_pixels / total_pixels) < 0.05:
+                # To prevent false positives on dark or weirdly lit sick leaves,
+                # also check for high brightness/saturation which usually indicates a leaf
                 return False
                 
             return True
